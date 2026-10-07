@@ -1,0 +1,7 @@
+{
+  "name": "ASI 通用智能项目底座",
+  "description": "面向非程序员用户的通用 Agent / Skill 智能运行底座与任务编译验证架构工作台",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,6 @@
+{
+  "summary": "根据用户反馈全面重构的 ASI V1.0 实施计划：澄清 Managed Runtime Environment 边界、插入 Phase 0.5 Runtime Contract 运行合同、调整 A 类为纯 Skill/Prompt 项目、贯穿式 Verification、低技术密度 UI 与第一性端到端验收门禁。",
+  "updatedAt": "2026-10-06T13:32:48.897368263Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
